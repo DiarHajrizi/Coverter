@@ -1,0 +1,52 @@
+body{
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    
+}
+.ko{
+border: 2px solid black; 
+margin:auto;
+margin: 50px;
+padding: 100px;
+}
+#celcius{
+    width: 200px;
+    height: 50px;
+}
+.conv {
+    height: 50px;
+    width: 200px;
+    background-color:black;
+    color: tomato;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:violet ;
+    font-size: 20px;
+    font-style: italic BOLD 
+
+}
+
+.input_temp{ color: black; padding: 10px 60px; text-align: center;
+    display: block;border-radius: 4px;
+}
+.p{ display: inline-block;
+    }
+ .con{
+     height: 40px;
+     width: 100px;
+     background-color:lightblue;
+     color: white;
+     border-radius: 5px;
+     
+ }
+ .rezultati{
+     font-size: 30px; color: tomato;
+
+ }
+.ko{
+    text-align: center;
+}
